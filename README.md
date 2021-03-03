@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramlan404&theme=onedark" /></a>
+  <a href="https://github.com/Ramlan404/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramlan404&theme=onedark" /></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/c/RamlanChannel21"><img src="https://img.shields.io/badge/YouTube-Heikal%20Syah%20Shiddiq-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/RamlanChannel21" /></a>
+  <a href="https://youtube.com/c/RamlanChannel21"><img src="https://img.shields.io/badge/YouTube-Ramlan%20ID-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/RamlanChannel21" /></a>
   <a href="mailto:ramlangans666@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramlangans666@gmail.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:ramlangans666@gmail.com" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ramlan404&label=VIEWS&style=flat-square&color=orange" />
 </p>
