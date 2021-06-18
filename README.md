@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/c/RamlanChannel21"><img src="https://img.shields.io/badge/YouTube-Ramlan%20ID-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/RamlanChannel21" /></a>
+  <a href="https://youtube.com/c/RAMLANID"><img src="https://img.shields.io/badge/YouTube-Ramlan%20ID-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/RAMLANID" /></a>
   <a href="mailto:ramlangans666@gmail.com"><img src="https://img.shields.io/badge/Gmail-@babybot-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:ramlangans666@gmail.com" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ramlan404&label=VIEWS&style=flat-square&color=orange" />
 </p>
